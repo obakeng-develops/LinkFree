@@ -1,0 +1,47 @@
+{
+  "name": "Obakeng Mosadi",
+  "type": "personal",
+  "bio": "I'm a 25 year old open-source contributor from South Africa.",
+  "avatar": "https://github.com/obakeng-develops.png",
+  "links": [
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/obakeng-develops",
+      "icon": "github"
+    },
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/obakeng_mosadi",
+      "icon": "twitter"
+    },
+    {
+      "name": "Read My CV",
+      "url": "https://read.cv/obakeng",
+      "icon": "book"
+    },
+    {
+      "name": "Connect with me on LinkedIn",
+      "url": "https://www.linkedin.com/in/obakeng-mosadi-b2041943/",
+      "icon": "linkedin"
+    }
+  ],
+  "milestones": [
+    {
+      "title": "Web Developer",
+      "date": "June 2020",
+      "icon": "dollar",
+      "color": "grey",
+      "description": "Landed my first job as a web developer"
+    },
+    {
+      "title": "Started a telehealth startup",
+      "date": "Jan 2021",
+      "description": "Ran my first startup for 8 months."
+    },
+    {
+      "title": "Web Developer",
+      "date": "Apr 2022",
+      "description": "Landed my second job as a web developer!"
+    },
+  ]
+}
